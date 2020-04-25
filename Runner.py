@@ -1,6 +1,6 @@
 """
 Title: Guidance System For Visually Impaired People
-Developed  by: Syeda Atiya Husain, Ashish Kore and Nupur Kshatri.
+Developed  by: Syeda Atiya Husain, Ashish Kore and Nupur Kshatri. 
 Language: Python
 Requirement:
             Python version: Python 3 or later
